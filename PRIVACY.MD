@@ -59,7 +59,7 @@ We will verify the request and respond within a reasonable timeframe.
 
 ## 6. Children’s Privacy
 
-Citizen is not intended for users under **16 years of age**, or under the minimum age required by law in your country if higher.
+Citizen is not intended for users under **13 years of age**, or under the minimum age required by law in your country if higher.
 
 We do not knowingly store data from individuals under this age. If we learn that we have, we will take steps to remove it.
 
